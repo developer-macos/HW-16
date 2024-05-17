@@ -1,0 +1,12 @@
+.bg-box{
+
+    width: 200px;
+    height: 200px;
+    background-repeat: no-repeat;
+    display:block ;
+}
+
+body{
+    background-color: green;
+    background-image: url(./photos/lamp-png-34914.png);
+}
