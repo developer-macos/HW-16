@@ -1,12 +1,15 @@
-.bg-box{
-    background-image: url(https://img2.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg);
-        width: 600px;
-        background-repeat: no-repeat;
-    height: 400px;
-    display: flex;
-    align-items: flex-end;
+.bg-box {
+  background-image: url("/photos/lamp-png-34914.jpg");
+  width: 600px;
+  background-repeat: repeat-y;
+  background-size: 150px;
+  width: 300px;
+  height: 300px;
+  border: 2px solid;
+  display: flex;
+  align-items: flex-end;
 }
 
-body{
-    background-color: green;
+body {
+  background-color: green;
 }
